@@ -1,0 +1,2 @@
+# GenTextClassifier
+Generatieve Text Classifier
